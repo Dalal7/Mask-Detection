@@ -15,7 +15,7 @@ I used the following link to download the latest version(v1.8.0) of the tool: ht
 2. Open the App.
 3. Choose the open dir.
 4. Choose the saved dir.
-5. Change to format from Pascal/Voc to Yolo.
+5. Change to format from Pascal/Voc to YOLO.
 6. Create rectBox of the object in the image.
 7. Click Save and go to the next image.
 

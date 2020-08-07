@@ -1,6 +1,6 @@
 # LabelImg
 
-![Project Image](C:\Users\extra\Downloads\LabelImg')
+![Project Image](C:\Users\extra\Downloads\LabelImg)
 
 > This is a ReadMe template to help save you time and effort.
 
